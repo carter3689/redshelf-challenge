@@ -1,3 +1,4 @@
+order_id,isbn,publisher,school,price,duration,order_datetime
 98765,8.62728E+11,OPENSTAX,CLT,5,150_day,21:29.6
 98766,6.57822E+12,ENGLISH PUBLICATIONS,PDX,5,110_day,37:45.6
 98767,2.8096E+11,MCGRAW-HILL,IAD,8,70_day,26:00.6
